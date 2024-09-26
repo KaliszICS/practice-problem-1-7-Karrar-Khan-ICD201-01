@@ -1,18 +1,19 @@
 
 
-q1():
+def q1():
+  input=(boolean)=True
+  print=True
+
+def q2():
   #Write code here
 
-q2():
+def q3():
   #Write code here
 
-q3():
+def q4():
   #Write code here
 
-q4():
-  #Write code here
-
-q5():
+def q5():
   #Write code here
 
 #Do edit the code below
